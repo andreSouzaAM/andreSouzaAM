@@ -1,7 +1,7 @@
 ### Olá me chamo André 👋
 
 - 😍 Me desenvolvendo como Front-end
-- 💻 Atualmente estudando ReactJS, Typescript, Styled Component
+- 💻 Experiência em ReactJS, Typescript, Styled Component, Material UI, NodeJS, Express
 - 😎 Caso precise entrar em contato segue:
 - 📱 +55 92 98104-0910
 
@@ -16,5 +16,3 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  ##
