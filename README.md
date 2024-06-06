@@ -3,7 +3,7 @@
 - 😍 Me desenvolvendo como Front-end
 - 💻 Experiência em ReactJS, Typescript, Styled Component, Material UI, NodeJS, Express
 - 😎 Caso precise entrar em contato segue:
-- 📱 +55 92 98104-0910
+andssouzza@gmail.com
 
 <div align="center">
   <a href="https://github.com/andresouza2">
