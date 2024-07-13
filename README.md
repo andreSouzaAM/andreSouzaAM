@@ -21,3 +21,5 @@
   <img align="center" alt="figma" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg">
   <img align="center" alt="Sass" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg">
   <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg">
+  <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg">
+  <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
