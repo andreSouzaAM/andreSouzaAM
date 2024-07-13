@@ -23,3 +23,4 @@
   <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg">
   <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg">
   <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
+  <img align="center" alt="Styled-component" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
