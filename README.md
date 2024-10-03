@@ -1,6 +1,6 @@
 ### Olá me chamo André 👋
 
-- 😍 Me desenvolvendo como Front-end
+- 😍 Me desenvolvendo como FullStack
 - 💻 Experiência em ReactJS, Typescript, Styled Component, Material UI, NodeJS, Express
 - 😎 Caso precise entrar em contato segue:
 - andssouzza@gmail.com
